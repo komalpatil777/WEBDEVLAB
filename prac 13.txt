@@ -1,0 +1,17 @@
+Name:-Komal Patil 
+Roll No:-58 
+Batch:-F3 
+Prac:-13 
+ 
+<!DOCTYPE html> 
+<html> 
+<body style="background-color:powderblue;"> 
+ 
+<h1>welcome to ssbt college </h1> 
+<p>my name is Komal</p> 
+I am learning in Bca first year<br> 
+shivraj sir is my principal<br> 
+<font color="red"></font> 
+<u>thank you!</u> 
+</body> 
+</html
